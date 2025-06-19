@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Sanchari Biswas,currently studying B.Tech in Information Technology and a fresher.
+- 👋 Hi, I’m Sanchari Biswas,currently studying B.Tech in Computer Science with a specialization in Artificial Intelligence and Machine Learning.
 - 👀 I’m interested in anything related to tech and beyond.
-- 🌱 I’m currently learning C and Web Development.
 - 📫 How to reach me->Here's my mail: sancharib2003@gmail.com
 
 <!---
